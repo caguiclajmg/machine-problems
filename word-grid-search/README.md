@@ -11,8 +11,12 @@ The test case data for this problem starts with two consecutive lines indicating
 ### Constraints
 
 > 0 < **T** < 100
+>
 > 0 < **N** < 65536
+>
 > 0 < **M** < 65536
+>
+> 0 < Length of **W** < M
 
 ## Output
 For every test case, the program should output
