@@ -4,7 +4,7 @@
 Given a **NxM** grid of characters, find all instances of word **W**.
 
 ## Input
-Following the standard input file format of the repository, the first line of the input contains the number of test cases and immediately after follows all data for test cases.
+Following the standard input file format of the repository, the first line of the input contains the number of test cases **T** and immediately after follows all data for test cases.
 
 The test case data for this problem starts with two consecutive lines indicating the grid's *height* **M** and *width* **N** respectively. The next **M** lines each consisting of 0 up to **N** characters represent the contents of the grid. Lastly, a line containing the word **W** to be searched.
 
